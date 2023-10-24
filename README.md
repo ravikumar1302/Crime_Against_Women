@@ -6,6 +6,4 @@ Programming Language : Python
 
 IDE : Jupyter Notebook
 
-Libraries used : Pandas, NumPy, Seaborn, and Matplotlib (Majorly)
-
-Machine Learning Models : Still under Progress
+Libraries used : Pandas, NumPy, Seaborn, and Matplotlib, Sklearn, 
