@@ -6,4 +6,4 @@ Programming Language : Python
 
 IDE : Jupyter Notebook
 
-Libraries used : Pandas, NumPy, Seaborn, and Matplotlib, Sklearn, 
+Libraries used : Pandas, NumPy, Seaborn, and Matplotlib, Sklearn
